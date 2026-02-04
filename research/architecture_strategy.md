@@ -44,9 +44,10 @@ Chimera SRS: It bridges reasoning and revenue by enforcing strict persona consis
 
 6.2 High-Level Flow
 
-![diagram](research/ai-agent-workflow.png)
+![diagram](ai-agent-workflow.png)
 
 7. Governance & Repository (Task 1.3)
    I have initialized the environment using uv for dependency management. All actions are traceable via MCP telemetry.
+
 
 
